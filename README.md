@@ -4,7 +4,7 @@
 
 ##Install go_sogou_api
 
-	go get github.com/nanjishidu/go_sogou_api/v1
+	go get github.com/nanjishidu/go_sogou_api/...
 
 ##Import go_sogou_api
 
